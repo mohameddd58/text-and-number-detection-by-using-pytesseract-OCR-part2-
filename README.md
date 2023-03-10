@@ -1,0 +1,1 @@
+# text-and-number-detection-by-using-pytesseract-OCR-part2-
